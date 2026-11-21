@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RCC>
+    <qresource prefix="/">
+        <file>qml/Settings.qml</file>
+        <file>qml/Overlay.qml</file>
+        <file>resources/icons/yasumi.png</file>
+        <file>resources/icons/yasumi.svg</file>
+    </qresource>
+</RCC>

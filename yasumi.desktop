@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Yasumi
+Comment=Full-screen break reminder for Wayland
+Exec=yasumi
+Icon=yasumi
+Categories=Utility;
+Terminal=false
