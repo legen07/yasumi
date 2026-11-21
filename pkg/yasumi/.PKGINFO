@@ -5,9 +5,9 @@ pkgbase = yasumi
 xdata = pkgtype=pkg
 pkgver = 1.0.0-3
 pkgdesc = Sane-break style tray app: timed full-screen break seizure for Wayland (Hyprland)
-url = https://github.com/yourusername/yasumi
-builddate = 1795270140
-packager = Unknown Packager
+url = https://github.com/legen07/yasumi
+builddate = 1795279655
+packager = legen07
 size = 70703
 arch = x86_64
 license = GPL-3.0-or-later

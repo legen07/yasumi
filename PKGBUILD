@@ -4,7 +4,7 @@ pkgver=1.0.0
 pkgrel=3
 pkgdesc="Sane-break style tray app: timed full-screen break seizure for Wayland (Hyprland)"
 arch=('x86_64')
-url="https://github.com/yourusername/yasumi"
+url="https://github.com/legen07/yasumi"
 license=('GPL-3.0-or-later')
 depends=(
     'qt6-base'
